@@ -1,0 +1,367 @@
+[
+  {
+    "id": 200001,
+    "name": "Akihiko Nirei",
+    "isStatic": true
+  },
+  {
+    "id": 200002,
+    "name": "Among us",
+    "isStatic": true
+  },
+  {
+    "id": 200003,
+    "name": "Black cat",
+    "isStatic": true
+  },
+  {
+    "id": 200004,
+    "name": "Dog",
+    "isStatic": true
+  },
+  {
+    "id": 200005,
+    "name": "Gojo",
+    "isStatic": true
+  },
+  {
+    "id": 200006,
+    "name": "Goku",
+    "isStatic": true
+  },
+  {
+    "id": 200007,
+    "name": "Green Frog",
+    "isStatic": true
+  },
+  {
+    "id": 200008,
+    "name": "Hatsune Miku",
+    "isStatic": true
+  },
+  {
+    "id": 200009,
+    "name": "Inosuke",
+    "isStatic": true
+  },
+  {
+    "id": 200010,
+    "name": "Jinu",
+    "isStatic": true
+  },
+  {
+    "id": 200011,
+    "name": "Judy",
+    "isStatic": true
+  },
+  {
+    "id": 200012,
+    "name": "Katakuri",
+    "isStatic": true
+  },
+  {
+    "id": 200013,
+    "name": "Labubu",
+    "isStatic": true
+  },
+  {
+    "id": 200014,
+    "name": "Letter Tiger",
+    "isStatic": true
+  },
+  {
+    "id": 200015,
+    "name": "Levi",
+    "isStatic": true
+  },
+  {
+    "id": 200016,
+    "name": "Luffy",
+    "isStatic": true
+  },
+  {
+    "id": 200017,
+    "name": "Mira",
+    "isStatic": true
+  },
+  {
+    "id": 200018,
+    "name": "Nick",
+    "isStatic": true
+  },
+  {
+    "id": 200019,
+    "name": "Otter",
+    "isStatic": true
+  },
+  {
+    "id": 200020,
+    "name": "Penguins",
+    "isStatic": true
+  },
+  {
+    "id": 200021,
+    "name": "Rumi",
+    "isStatic": true
+  },
+  {
+    "id": 200022,
+    "name": "Sasuke",
+    "isStatic": true
+  },
+  {
+    "id": 200023,
+    "name": "Screamy Cat",
+    "isStatic": true
+  },
+  {
+    "id": 200024,
+    "name": "Shin Chan",
+    "isStatic": true
+  },
+  {
+    "id": 200025,
+    "name": "Squid Game",
+    "isStatic": true
+  },
+  {
+    "id": 200026,
+    "name": "Squirrel",
+    "isStatic": true
+  },
+  {
+    "id": 200027,
+    "name": "Zoey",
+    "isStatic": true
+  },
+  {
+    "id": 200028,
+    "name": "Zootopia Couple",
+    "isStatic": true
+  },
+  {
+    "id": 200029,
+    "name": "Zoro 1",
+    "isStatic": true
+  },
+  {
+    "id": 200030,
+    "name": "Zoro 2",
+    "isStatic": true
+  },
+  {
+    "id": 200031,
+    "name": "Bird with Santa hat",
+    "isStatic": true
+  },
+  {
+    "id": 200032,
+    "name": "Candy cane",
+    "isStatic": true
+  },
+  {
+    "id": 200033,
+    "name": "Christmas elf",
+    "isStatic": true
+  },
+  {
+    "id": 200034,
+    "name": "Christmas ornament",
+    "isStatic": true
+  },
+  {
+    "id": 200035,
+    "name": "Christmas stocking",
+    "isStatic": true
+  },
+  {
+    "id": 200036,
+    "name": "Christmas tree",
+    "isStatic": true
+  },
+  {
+    "id": 200037,
+    "name": "Gift box",
+    "isStatic": true
+  },
+  {
+    "id": 200038,
+    "name": "Gingerbread man",
+    "isStatic": true
+  },
+  {
+    "id": 200039,
+    "name": "Polar bear",
+    "isStatic": true
+  },
+  {
+    "id": 200040,
+    "name": "Reindeer",
+    "isStatic": true
+  },
+  {
+    "id": 200041,
+    "name": "Santa Claus",
+    "isStatic": true
+  },
+  {
+    "id": 200042,
+    "name": "Snowman",
+    "isStatic": true
+  },
+  {
+    "id": 200043,
+    "name": "Bouquet of roses",
+    "isStatic": true
+  },
+  {
+    "id": 200044,
+    "name": "Chocolate bar",
+    "isStatic": true
+  },
+  {
+    "id": 200045,
+    "name": "Cupcake",
+    "isStatic": true
+  },
+  {
+    "id": 200046,
+    "name": "Cupid",
+    "isStatic": true
+  },
+  {
+    "id": 200047,
+    "name": "Girl with red shirt",
+    "isStatic": true
+  },
+  {
+    "id": 200048,
+    "name": "Heart speech bubble",
+    "isStatic": true
+  },
+  {
+    "id": 200049,
+    "name": "Heart-shaped chocolate box",
+    "isStatic": true
+  },
+  {
+    "id": 200050,
+    "name": "Heart",
+    "isStatic": true
+  },
+  {
+    "id": 200051,
+    "name": "Love letter",
+    "isStatic": true
+  },
+  {
+    "id": 200052,
+    "name": "Corn",
+    "isStatic": true
+  },
+  {
+    "id": 200053,
+    "name": "Green apple",
+    "isStatic": true
+  },
+  {
+    "id": 200054,
+    "name": "Maple leaf (orange)",
+    "isStatic": true
+  },
+  {
+    "id": 200055,
+    "name": "Maple leaf (red)",
+    "isStatic": true
+  },
+  {
+    "id": 200056,
+    "name": "Native American person",
+    "isStatic": true
+  },
+  {
+    "id": 200057,
+    "name": "Pilgrim",
+    "isStatic": true
+  },
+  {
+    "id": 200058,
+    "name": "Pumpkin pie",
+    "isStatic": true
+  },
+  {
+    "id": 200059,
+    "name": "Pumpkin",
+    "isStatic": true
+  },
+  {
+    "id": 200060,
+    "name": "Sunflower",
+    "isStatic": true
+  },
+  {
+    "id": 200061,
+    "name": "Turkey",
+    "isStatic": true
+  },
+  {
+    "id": 200062,
+    "name": "Bat",
+    "isStatic": true
+  },
+  {
+    "id": 200063,
+    "name": "Black cat",
+    "isStatic": true
+  },
+  {
+    "id": 200064,
+    "name": "Candy corn",
+    "isStatic": true
+  },
+  {
+    "id": 200065,
+    "name": "Cauldron",
+    "isStatic": true
+  },
+  {
+    "id": 200066,
+    "name": "Ghost",
+    "isStatic": true
+  },
+  {
+    "id": 200067,
+    "name": "Jack-o'-lantern",
+    "isStatic": true
+  },
+  {
+    "id": 200068,
+    "name": "Mummy",
+    "isStatic": true
+  },
+  {
+    "id": 200069,
+    "name": "Skeleton",
+    "isStatic": true
+  },
+  {
+    "id": 200070,
+    "name": "Spider",
+    "isStatic": true
+  },
+  {
+    "id": 200071,
+    "name": "Vampire",
+    "isStatic": true
+  },
+  {
+    "id": 200072,
+    "name": "Witch girl",
+    "isStatic": true
+  },
+  {
+    "id": 200073,
+    "name": "Witch's hat",
+    "isStatic": true
+  }
+]
