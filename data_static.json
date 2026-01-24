@@ -5,21 +5,6 @@
     "isStatic": true
   },
   {
-    "id": 200002,
-    "name": "Among us",
-    "isStatic": true
-  },
-  {
-    "id": 200003,
-    "name": "Black cat",
-    "isStatic": true
-  },
-  {
-    "id": 200004,
-    "name": "Dog",
-    "isStatic": true
-  },
-  {
     "id": 200005,
     "name": "Gojo",
     "isStatic": true
@@ -27,11 +12,6 @@
   {
     "id": 200006,
     "name": "Goku",
-    "isStatic": true
-  },
-  {
-    "id": 200007,
-    "name": "Green Frog",
     "isStatic": true
   },
   {
@@ -45,13 +25,13 @@
     "isStatic": true
   },
   {
-    "id": 200010,
-    "name": "Jinu",
+    "id": 200011,
+    "name": "Judy",
     "isStatic": true
   },
   {
-    "id": 200011,
-    "name": "Judy",
+    "id": 200018,
+    "name": "Nick",
     "isStatic": true
   },
   {
@@ -65,11 +45,6 @@
     "isStatic": true
   },
   {
-    "id": 200014,
-    "name": "Letter Tiger",
-    "isStatic": true
-  },
-  {
     "id": 200015,
     "name": "Levi",
     "isStatic": true
@@ -80,63 +55,13 @@
     "isStatic": true
   },
   {
-    "id": 200017,
-    "name": "Mira",
-    "isStatic": true
-  },
-  {
-    "id": 200018,
-    "name": "Nick",
-    "isStatic": true
-  },
-  {
-    "id": 200019,
-    "name": "Otter",
-    "isStatic": true
-  },
-  {
-    "id": 200020,
-    "name": "Penguins",
-    "isStatic": true
-  },
-  {
-    "id": 200021,
-    "name": "Rumi",
-    "isStatic": true
-  },
-  {
     "id": 200022,
     "name": "Sasuke",
     "isStatic": true
   },
   {
-    "id": 200023,
-    "name": "Screamy Cat",
-    "isStatic": true
-  },
-  {
     "id": 200024,
     "name": "Shin Chan",
-    "isStatic": true
-  },
-  {
-    "id": 200025,
-    "name": "Squid Game",
-    "isStatic": true
-  },
-  {
-    "id": 200026,
-    "name": "Squirrel",
-    "isStatic": true
-  },
-  {
-    "id": 200027,
-    "name": "Zoey",
-    "isStatic": true
-  },
-  {
-    "id": 200028,
-    "name": "Zootopia Couple",
     "isStatic": true
   },
   {
@@ -362,6 +287,81 @@
   {
     "id": 200073,
     "name": "Witch's hat",
+    "isStatic": true
+  },
+  {
+    "id": 200002,
+    "name": "Among us",
+    "isStatic": true
+  },
+  {
+    "id": 200003,
+    "name": "Black cat",
+    "isStatic": true
+  },
+  {
+    "id": 200004,
+    "name": "Dog",
+    "isStatic": true
+  },
+  {
+    "id": 200007,
+    "name": "Green Frog",
+    "isStatic": true
+  },
+  {
+    "id": 200010,
+    "name": "Jinu",
+    "isStatic": true
+  },
+  {
+    "id": 200014,
+    "name": "Letter Tiger",
+    "isStatic": true
+  },
+  {
+    "id": 200017,
+    "name": "Mira",
+    "isStatic": true
+  },
+  {
+    "id": 200019,
+    "name": "Otter",
+    "isStatic": true
+  },
+  {
+    "id": 200020,
+    "name": "Penguins",
+    "isStatic": true
+  },
+  {
+    "id": 200021,
+    "name": "Rumi",
+    "isStatic": true
+  },
+  {
+    "id": 200023,
+    "name": "Screamy Cat",
+    "isStatic": true
+  },
+  {
+    "id": 200025,
+    "name": "Squid Game",
+    "isStatic": true
+  },
+  {
+    "id": 200026,
+    "name": "Squirrel",
+    "isStatic": true
+  },
+  {
+    "id": 200027,
+    "name": "Zoey",
+    "isStatic": true
+  },
+  {
+    "id": 200028,
+    "name": "Zootopia Couple",
     "isStatic": true
   }
 ]
